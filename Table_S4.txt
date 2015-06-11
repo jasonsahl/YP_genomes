@@ -1,0 +1,296 @@
+Table S4. Annotation of coding regions unique to Y. pestis		
+		
+Genbank ID		Annotation
+WP_000071870		5'-nucleotidase 
+WP_011742534		acetyltransferase 
+WP_016582627		acetyltransferase 
+WP_043906774		aldolase 
+WP_000018326		aminoglycoside 3'-phosphotransferase 
+AIL81899		aminoglycoside adenyltransferase, partial 
+WP_016589769		ammonia monooxygenase 
+WP_001909143		ArdK protein 
+WP_000365431		ArsR family transcriptional regulator 
+WP_000983249		ATP-binding protein 
+WP_000085162		ATPase 
+WP_001280522		ATPase 
+EWD96542		beta-lactamase SHV-1 
+WP_044796618		beta-lactamase TEM, partial 
+WP_002224363		C-type natriuretic protein 
+WP_002210545		chloramphenicol acetyltransferase 
+WP_001239997		chromosome segregation protein ParM 
+EZQ51649		class I integron integrase 
+WP_001151304		cobyric acid synthase CobQ 
+WP_000479535		conjugal transfer protein TraA 
+WP_000595749		conjugal transfer protein TraB 
+WP_000637386		conjugal transfer protein TraC 
+WP_029498585		conjugal transfer protein TraF 
+WP_001326396		conjugal transfer protein TraF 
+WP_000128596		conjugal transfer protein TraG 
+WP_000534551		conjugal transfer protein TraG 
+WP_000256129		conjugal transfer protein TraH 
+WP_001337757		conjugal transfer protein TraI 
+WP_016674165		conjugal transfer protein TraI 
+WP_000794249		conjugal transfer protein TraK 
+WP_000805625		conjugal transfer protein TraL 
+WP_001256487		conjugal transfer protein TraN 
+WP_029498583		conjugal transfer protein TraO 
+WP_001909285		conjugal transfer protein TraU 
+WP_000793435		conjugal transfer protein TraV 
+WP_000621288		conjugal transfer protein TraW 
+WP_016589851		conjugation transfer protein 
+EDR41126		conserved hypothetical protein 
+WP_000124640		Cro/Cl family transcriptional regulator 
+WP_002210513		DeoR family transcriptional regulator 
+WP_000270043		diaminopimelate decarboxylase 
+WP_001337754		diguanylate phosphodiesterase 
+WP_011264040		diguanylate phosphodiesterase 
+AAB03082		dihydropteroate synthase 
+AIC76511		dihydropteroate synthase 
+WP_000811656		DNA helicase 
+WP_000201432		DNA methyltransferase 
+WP_000936896		DNA methyltransferase 
+WP_032413577		DNA replication protein 
+WP_000366822		DNA topoisomerase III 
+WP_000651490		DNA-binding protein 
+WP_000706865		endonuclease 
+WP_032440914		endonuclease 
+WP_000439571		esterase 
+WP_000997323		exonuclease 
+WP_000919345		Fe3+-siderophore ABC transporter permease 
+WP_001102700		ferredoxin 
+WP_000891157		flagellar transcriptional activator 
+ADU64769		GCN5-related N-acetyltransferase 
+WP_002211730		glycoside hydrolase 
+EAW66125		hCG2038557, partial 
+WP_016257346		holin 
+WP_002211717		hypothetical protein 
+WP_002211721		hypothetical protein 
+WP_002209171		hypothetical protein 
+WP_002224265		hypothetical protein 
+WP_002430143		hypothetical protein 
+WP_011117367		hypothetical protein 
+WP_011264031		hypothetical protein 
+WP_000988732		hypothetical protein 
+WP_000338626		hypothetical protein 
+WP_000268337		hypothetical protein 
+WP_000122923		hypothetical protein 
+WP_001077335		hypothetical protein 
+WP_001032042		hypothetical protein 
+WP_000260293		hypothetical protein 
+WP_000184110		hypothetical protein 
+WP_000050848		hypothetical protein 
+WP_000042274		hypothetical protein 
+WP_001093868		hypothetical protein 
+WP_038220024		hypothetical protein 
+WP_000410925		hypothetical protein 
+WP_000209093		hypothetical protein 
+WP_000651508		hypothetical protein 
+WP_000340223		hypothetical protein 
+WP_001176699		hypothetical protein 
+WP_000026577		hypothetical protein 
+WP_000477209		hypothetical protein 
+WP_000793769		hypothetical protein 
+WP_000018872		hypothetical protein 
+WP_001071288		hypothetical protein 
+WP_000170086		hypothetical protein 
+WP_000739139		hypothetical protein 
+WP_001186917		hypothetical protein 
+WP_015056383		hypothetical protein 
+WP_015063566		hypothetical protein 
+WP_000709517		hypothetical protein 
+WP_000351984		hypothetical protein 
+WP_001259347		hypothetical protein 
+WP_001049716		hypothetical protein 
+WP_000509509		hypothetical protein 
+WP_001231463		hypothetical protein 
+WP_000869261		hypothetical protein 
+WP_000122506		hypothetical protein 
+WP_000228720		hypothetical protein 
+WP_000178856		hypothetical protein 
+WP_001249396		hypothetical protein 
+WP_031969003		hypothetical protein 
+WP_000505707		hypothetical protein 
+WP_000362482		hypothetical protein 
+WP_001337759		hypothetical protein 
+WP_000268551		hypothetical protein 
+WP_025887059		hypothetical protein 
+WP_000566600		hypothetical protein 
+WP_000044824		hypothetical protein 
+WP_001125905		hypothetical protein 
+WP_000703827		hypothetical protein 
+WP_000338945		hypothetical protein 
+LW57_p26		hypothetical protein 
+WP_002437846		hypothetical protein 
+WP_002210543		hypothetical protein 
+WP_000359512		hypothetical protein 
+WP_001256127		hypothetical protein 
+WP_000004673		hypothetical protein 
+WP_000988987		hypothetical protein 
+WP_000245298		hypothetical protein 
+WP_014342199		hypothetical protein 
+WP_000018404		hypothetical protein 
+WP_000277953		hypothetical protein 
+WP_000454742		hypothetical protein 
+WP_015063558		hypothetical protein 
+WP_000954380		hypothetical protein 
+WP_000062185		hypothetical protein 
+WP_001326176		hypothetical protein 
+WP_033557885		hypothetical protein 
+WP_000516916		hypothetical protein 
+WP_000333619		hypothetical protein 
+WP_001167032		hypothetical protein 
+WP_000972663		hypothetical protein 
+WP_000422768		hypothetical protein 
+WP_000591074		hypothetical protein 
+WP_000539392		hypothetical protein 
+WP_000902149		hypothetical protein 
+WP_000057877		hypothetical protein 
+WP_000805800		hypothetical protein 
+WP_000393785		hypothetical protein 
+WP_000849071		hypothetical protein 
+WP_040063681		hypothetical protein 
+WP_014342194		hypothetical protein 
+WP_000502622		hypothetical protein 
+WP_000127321		hypothetical protein 
+WP_000375811		hypothetical protein 
+WP_000101263		hypothetical protein 
+WP_000139717		hypothetical protein 
+WP_000949433		hypothetical protein 
+WP_000932880		hypothetical protein 
+WP_000243801		hypothetical protein 
+WP_000278322		hypothetical protein 
+WP_040153981		hypothetical protein 
+WP_011872911		hypothetical protein 
+WP_000787563		hypothetical protein 
+WP_012477588		hypothetical protein 
+WP_002211712		hypothetical protein 
+WP_011117370		hypothetical protein 
+WP_044819505		hypothetical protein 
+WP_000568107		hypothetical protein 
+WP_016257343		hypothetical protein 
+WP_016257342		hypothetical protein 
+WP_016257336		hypothetical protein 
+WP_016257034		hypothetical protein 
+WP_016257164		hypothetical protein 
+WP_032485819		hypothetical protein 
+WP_019841189		hypothetical protein 
+WP_016257340		hypothetical protein 
+WP_016257338		hypothetical protein 
+WP_016257033		hypothetical protein 
+WP_016261354		hypothetical protein 
+WP_032485830		hypothetical protein 
+WP_016257048		hypothetical protein 
+WP_016257049		hypothetical protein 
+WP_016257334		hypothetical protein 
+WP_016257161		hypothetical protein 
+WP_016257047		hypothetical protein 
+WP_002211716		hypothetical protein 
+WP_002214484		hypothetical protein 
+WP_002211715		hypothetical protein 
+WP_016582714		hypothetical protein 
+WP_002209174		hypothetical protein 
+WP_002215653		hypothetical protein 
+WP_016582820		hypothetical protein 
+WP_016589766		hypothetical protein 
+WP_016589770		hypothetical protein 
+AHO22799		hypothetical protein AV75_29340 
+EQB98214		hypothetical protein B738_26192 
+EFK01475		hypothetical protein HMPREF9548_03796 
+AHE41925		hypothetical protein KP13_32092 
+ERO94173		hypothetical protein L454_04959 
+AFJ02190		hypothetical protein Q7C_1031 
+EYI20322		hypothetical protein SEEH6457_01156, partial 
+ERF93777		hypothetical protein SEEHRA23_06235 
+EEO11862		hypothetical protein VCC_000128 
+EEO11782		hypothetical protein VCC_000178 
+EEO11791		hypothetical protein VCC_000187 
+CDL87159		hypothetical protein XCR1_840119 
+WP_033880368		hypothetical protein, partial 
+WP_032495447		hypothetical protein, partial 
+WP_002213827		hypothetical protein, partial 
+WP_016582624		hypothetical protein, partial 
+WP_016589409		hypothetical protein, partial 
+WP_002209587		integrase 
+EFJ86500		integrase core domain protein 
+WP_025471033		invasin 
+WP_000101568		KfrA protein 
+ELH92803		lactose permease 
+WP_000381239		membrane protein 
+WP_002210515		membrane protein 
+WP_002231149		membrane protein 
+WP_044075679		mercury transporter 
+WP_001294663		mercury transporter 
+WP_000082530		mercury transporter MerC 
+WP_015060033		MerE 
+WP_032282339		MerR family transcriptional regulator 
+WP_002209169		modification methylase 
+EDR32645		modification methylase EcoRII
+WP_012512935		multidrug efflux protein 
+WP_000356489		Ner 
+WP_000595210		NgrC 
+WP_000210756		nitrite reductase 
+WP_000809130		nuclease, partial 
+WP_040146162		oxidoreductase 
+WP_001010738		peptidase 
+WP_002211729		peptidase 
+WP_001326179		peptidase S49 
+WP_011566229		peptigoglycan-binding protein LysM 
+WP_001337693		permease 
+WP_000683483		permease 
+WP_000464631		phage head-tail adapter protein 
+WP_002213570		phage tail assembly protein T, partial 
+WP_001187970		phosphoadenosine phosphosulfate reductase 
+D616_p150052		phosphoglucosamine mutase 
+WP_000946102		phosphohydrolase 
+WP_016589852		phospholipase D 
+EFF84395		phosphotransferase enzyme family, partial 
+WP_000350011		plasmid replication protein 
+WP_000161333		plasmid stability protein 
+WP_000077458		plasmid stability protein StbA 
+WP_001207228		plasmid stablization protein ParB 
+WP_000139698		protein-disulfide isomerase 
+WP_012221072		putative mercuric reductase 
+WP_000064431		pyruvate dehydrogenase 
+WP_001282585		recombinase 
+WP_016589771		RemS 
+WP_025989321		resolvase 
+WP_000904895		resolvase 
+WP_040126179		restriction endonuclease subunit M, partial 
+EDR32628		RhsD protein 
+WP_000542259		RNA-binding protein 
+WP_000842134		S-(hydroxymethyl)glutathione dehydrogenase 
+WP_000033700		single-stranded DNA-binding protein 
+EFO57254		site-specific recombinase, phage integrase family 
+VCD_003732		StrB 
+WP_016582629		structural protein P5 
+WP_044869904		tail protein 
+WP_000479153		tail protein 
+WP_044718019		tail protein 
+WP_016257341		terminase 
+ABX87875		terminase large subunit 
+WP_000113282		TetR family transcriptional regulator 
+AAL75564		tetracycline resistance protein 
+WP_000344151		thymidylate kinase 
+WP_009485925		TniB 
+WP_001337696		topoisomerase II 
+AFN40249		TraM 
+WP_001061574		transcriptional regulator 
+WP_001043047		transcriptional regulator 
+WP_000790610		transglycosylase 
+EDR32655		transposase 
+WP_043018857		transposase 
+WP_032491178		transposase 
+WP_001138065		transposase 
+WP_044861639		transposase 
+WP_002361323		transposase 
+EIT21339		transposase 
+WP_044704855		transposase, partial 
+ELE01527		transposon Tn21 resolvase 
+WP_011742533		type II restriction endonuclease 
+KJC06788		type IV secretion protein Rhs, partial 
+WP_000743450		type VI secretion protein 
+CH45_1649		uncharacterized protein
+AAC82717		unknown 
+AAC82753		unknown 
+WP_000039318		von Willebrand factor A 
+WP_000334825		zinc metalloprotease 

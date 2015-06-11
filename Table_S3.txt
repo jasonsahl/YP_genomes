@@ -1,0 +1,92 @@
+Table S3. Accession information for genes screened in the current study				
+				
+Gene/Region		Locus Tag(s)/Accession		Reference
+YTB specific genes				
+ORF2		YPTB1058		 Pouillot et al. 2008
+ORF3		YPTB1495		 Pouillot et al. 2008
+ORF4		YPTB3368		 Pouillot et al. 2008
+R1		YPTB0872-YPTB0878		 Pouillot et al. 2008
+R3		YPTB2193-YPTB2201		 Pouillot et al. 2008
+YP specific genes				
+filamentous phage (YpfΦ)		YPO2271-2281		Derbise et al. 2007
+pla		YPPCP1.07		Sodeinde et al. 1992
+YPO0387		YPO0387		Chain et al. 2004
+YPO0388		YPO0388		Chain et al. 2004
+YPO0389		YPO0389		Chain et al. 2004
+Y3794		Y3794		Chain et al. 2004
+YPO0391		YPO0391		Chain et al. 2004
+YPO0392		YPO0392		Chain et al. 2004
+YPO0393		YPO0393		Chain et al. 2004
+YPO0394		YPO0394		Chain et al. 2004
+YPO0396		YPO0396		Chain et al. 2004
+YPO0397		YPO0397		Chain et al. 2004
+YPO1668		YPO1668		Chain et al. 2004
+YPO1670		YPO1670		Chain et al. 2004
+YPO1671		YPO1671		Chain et al. 2004
+YPO2084		YPO2084		Chain et al. 2004
+YPO2087		YPO2087		Chain et al. 2004
+YPO2088		YPO2088		Chain et al. 2004
+YPO2090		YPO2090		Chain et al. 2004
+YPO2091		YPO2091		Chain et al. 2004
+YPO2092		YPO2092		Chain et al. 2004
+YPO2093		YPO2093		Chain et al. 2004
+YPO2094		YPO2094		Chain et al. 2004
+YPO2095		YPO2095		Chain et al. 2004
+YPO2097		YPO2097		Chain et al. 2004
+YPO2100		YPO2100		Chain et al. 2004
+YPO2102		YPO2102		Chain et al. 2004
+YPO2103		YPO2103		Chain et al. 2004
+YPO2114		YPO2114		Chain et al. 2004
+YPO2261		YPO2261		Chain et al. 2004
+YPO2485		YPO2485		Chain et al. 2004
+YPO2486		YPO2486		Chain et al. 2004
+YPO3609		YPO3609		Chain et al. 2004
+YPO3610		YPO3610		Chain et al. 2004
+DFR5		AF333808-AF333810		Radnedge et al. 2002
+Shared between YP and YTB				
+PDE2		YPTB1308 and y2909		Sun et al. 2014
+PDE3		YPTB3308 and y3389		Sun et al. 2014
+rcsA		YP02449 and y1741		Sun et al. 2014
+htrB (ipid A acyltransferase gene)		YPTB2490		Chain et al. 2004
+High pathogenicity island (HPI)/pgm		AL031866		Schubert et al. 1998
+hmsHFRS operon		U22837		Lillard et al. 1997
+srfA		YPTB2212		Chain et al. 2004
+srfB		YPTB2213		Chain et al. 2004
+9 hemolysin genes		YPTB3450–YPTB3459		Chain et al. 2004
+DFR4		AF426171		Radnedge et al. 2002
+DFR1		AF333796-AF333797;AF334808		Radnedge et al. 2002
+DFR2		AF333798-AF333801		Radnedge et al. 2002
+DFR3		AF333802-AF333804		Radnedge et al. 2002
+DFR6		AF333811-AF333813		Radnedge et al. 2002
+putative two-component response regulator 		YE21202-19481(3154436:3155068 reverse)		Reuter et al. 2013
+putative sensor protein 		YE21202-19482(3155126:3157906 reverse)		Reuter et al. 2013
+orf00512 putative pathogenicity island effector protein 		YE21202-19483(3158094:3158528 forward)		Reuter et al. 2013
+orf00513 putative type III secretion protein		YE21202-19484(3158525:3160006 forward)		Reuter et al. 2013
+orf00514 putative type III secretion protein		YE21202-19485(3160008:3161219 forward)		Reuter et al. 2013
+orf00515 putative type III secretion protein		YE21202-19491(3161237:3161452 forward)		Reuter et al. 2013
+orf00516 hypothetical protein 		YE21202-19501(3161563:3161838 forward)		Reuter et al. 2013
+orf00517 putative pathogenicity island effector protein 		YE21202-19511(3161893:3162474 forward)		Reuter et al. 2013
+orf00518 putative type III secretion system chaperone protein 		YE21202-19521(3162502:3162960 forward)		Reuter et al. 2013
+orf00519 putative pathogenicity island effector protein 		YE21202-19531(3162962:3164422 forward)		Reuter et al. 2013
+putative pathogenicity island effector protein 		YE21202-19541(3164505:3165023 forward)		Reuter et al. 2013
+orf00522 putative pathogenicity island effector protein 		YE21202-19551(3165027:3165437 forward)		Reuter et al. 2013
+orf00523 putative pathogenicity island protein		YE21202-19561(3165418:3165930 forward)		Reuter et al. 2013
+orf00524 putative pathogenicity island effector protein		YE21202-19571( 3165982:3166794 forward)		Reuter et al. 2013
+orf00525 putative AraC-family regulatory protein		YE21202-19572(3166888:3167595 forward)		Reuter et al. 2013
+orf00526 putative pathogenicity island protein		YE21202-19573(3167604:3167819 forward)		Reuter et al. 2013
+orf00527 putative uncharacterized protein (putative type III secretion apparatus)		YE21202-19574(3167816:3168091 forward)		Reuter et al. 2013
+orf00528 putative type III secretion apparatus		YE21202-19575(3168136:3168384 forward)		Reuter et al. 2013
+orf00529 putative pathogenicity island lipoprotein 		YE21202-19576(3168381:3169112 forward)		Reuter et al. 2013
+orf00531 putative pathogenicity island protein		YE21202-19577(3169129:3169722 forward)		Reuter et al. 2013
+orf00533 putative pathogenicity island protein		YE21202-19578(3169719:3170342 forward)		Reuter et al. 2013
+orf00534 putative secretion system protein		YE21202-19579(3170362:3171375 forward)		Reuter et al. 2013
+YE21202-19580 putative pathogenicity island protein 		YE21202-19580(3171484:3171855 forward)		Reuter et al. 2013
+orf00538 putative type III secretion protein		YE21202-19581(3171852:3173891 forward)		Reuter et al. 2013
+orf00539 putative type III secretion ATP synthase 		YE21202-19582(3173869:3175233 forward)		Reuter et al. 2013
+orf00540 putative uncharacterized protein (type III secretion system apparatus protein) 		YE21202-19583(3175230:3175616 forward)		Reuter et al. 2013
+orf00541 conserved hypothetical protein 		YE21202-19584(3175597:3175995 forward)		Reuter et al. 2013
+orf00542 putative type III secretion protein		YE21202-19585(3175973:3176923 forward)		Reuter et al. 2013
+orf00543 putative type III secretion protein		YE21202-19586(3177040:3177690 forward)		Reuter et al. 2013
+orf00544 putative type III secretion protein		YE21202-19587(3177707:3177982 forward)		Reuter et al. 2013
+orf00545 putative type III secretion protein		YE21202-19588(3177984:3178778 forward)		Reuter et al. 2013
+orf00547 putative type III secretion protein		YE21202-19589(3178768:3179844 forward)		Reuter et al. 2013
